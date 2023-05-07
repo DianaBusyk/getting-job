@@ -1,7 +1,6 @@
 # getting job
 
-Project in Action - [getting job](https://redux-toolkit-getting
-job.netlify.app/)
+Project in Action - [getting job](https://gettingjob.netlify.app/landing)
 
 
 #### Run The App Locally
